@@ -1,6 +1,6 @@
 Flask
 werkzeug
-cv2
+opencv-python
 random
 numpy
 threading
