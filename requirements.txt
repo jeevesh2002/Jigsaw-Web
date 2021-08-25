@@ -1,0 +1,6 @@
+Flask
+werkzeug
+cv2
+random
+numpy
+threading
