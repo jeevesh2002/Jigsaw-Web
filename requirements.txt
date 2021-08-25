@@ -2,4 +2,3 @@ Flask
 werkzeug
 opencv-python
 numpy
-threading
