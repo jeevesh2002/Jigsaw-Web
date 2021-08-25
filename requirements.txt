@@ -2,3 +2,4 @@ Flask
 werkzeug
 opencv-python
 numpy
+gunicorn
